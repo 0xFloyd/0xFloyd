@@ -9,5 +9,3 @@
 [LinkedIn Profile](https://www.linkedin.com/in/ryan-floyd/)
 
 Email: [arfloyd7@gmail.com](mailto:arfloyd7@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=MrRyanFloyd)
