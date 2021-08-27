@@ -1,6 +1,6 @@
 ### Ryan Floyd 🍈
 
-⚡ Creative developer
+⚡ Creative Engineer - React, Threejs, React Three Fiber
 
 📚 Checkout my [Dev.to article](https://dev.to/mrryanfloyd/create-an-interactive-3d-portfolio-website-that-stands-out-to-employers-47gc) on how I created my 3D portfolio site [Ryan-floyd.com](https://www.ryan-floyd.com) with three.js. The gif below shows the site.
 
