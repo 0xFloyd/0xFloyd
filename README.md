@@ -8,4 +8,6 @@
 - [Nouns Party](https://nouns.party/)
 - [Friendsies](https://friendsies.io/builder)
 
-![ethereum](https://raw.githubusercontent.com/0xFloyd/0xFloyd/master/eth.png)
+<p align="center">
+  <img width="40" height="66" src="https://raw.githubusercontent.com/0xFloyd/0xFloyd/master/eth.png">
+</p>
