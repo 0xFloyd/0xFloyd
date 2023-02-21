@@ -10,4 +10,3 @@
 - [3D Nouns](https://3dnouns.xyz)
 - [Nounify](https://nounify.wtf/)
 - [Nouns Party](https://nouns.party/)
-- [Friendsies](https://friendsies.io)
