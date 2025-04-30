@@ -2,7 +2,7 @@ I'm <a href="https://x.com/0xFloyd" target="_blank" rel="noopener noreferrer">0x
 
 My skillset is taking a product from rough concept to prototype to production, especially in fast-moving environments where you need to make a lot of decisions on your own. I work across the stack — frontend, backend, APIs — my specialty is simply solving problems and figuring things out without losing momentum.
 
-If you have an idea you want to build, react out on twitter (preferred) or to xfloyd.eth [at] gmail [dot] com. I'm happy in my current full-time role, but if you're building something ambitious and need a senior engineer who moves fast and doesn't need hand-holding, I'm always happy to chat.
+If you have an idea you want to build, react out on twitter (preferred) or to xfloyd.eth [at] gmail [dot] com. I'm happy in my current full-time role, but if you're building something ambitious and need a senior engineer, I'm always happy to chat.
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xFloyd)
