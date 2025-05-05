@@ -4,7 +4,7 @@ Hi, I'm <a href="https://x.com/0xFloyd" target="_blank" rel="noopener noreferrer
 
 I build fast, clean, and reliable software products, and I particularly enjoy working with TypeScript and React. I've spent the past few years shipping web apps, tools, APIs, and libraries. My skillset is taking a product from rough concept, to prototype, to production, especially in fast-moving environments where I have the freedom to make autonomous decisions. I like to own the full idea-to-launch cycle.
 
-If you have an idea you want to build, reach out on twitter (preferred) or to xfloyd.eth [at] gmail [dot] com. I'm happy in my current role, but if you're building something ambitious and need engineering help, I'm always happy to chat.
+If you have an idea you want to build, reach out on twitter (preferred) or to xfloyd.eth [at] gmail [dot] com
 
 #### Engineering is a superpower
 
