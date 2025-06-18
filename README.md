@@ -6,7 +6,7 @@ Previously, I built several projects for [NounsDAO](https://nouns.wtf) - includi
 
 My work spans developer automation SDKs, retrieval-augmented AI assistants, WASM-based proof generation, onchain integration, and npm libraries. While TypeScript and React are my preferred stack, I've shipped everything from web apps and APIs to npm SDKs, NFT projects, and Chrome extensions.
 
-I love hobby projects and tinkering - my favorite project was [running my own Ethereum node](https://x.com/0xFloyd/status/1701651748597756046) on my own hardware from 2022 - 2024.
+I love hobby projects and tinkering - my favorite project was [running my own Ethereum node](https://x.com/0xFloyd/status/1701651748597756046) on my own hardware from 2023 - 2024.
 
 If you have an idea you need help building, reach out on [Twitter](https://x.com/0xFloyd).
 
